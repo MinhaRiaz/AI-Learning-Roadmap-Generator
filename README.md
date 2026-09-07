@@ -1,6 +1,6 @@
 # 🎓 AI Learning Roadmap Generator
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-learning-roadmap-generator.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]()
 
 An AI-powered **Learning Roadmap Generator** that creates personalized, practical, and structured learning plans based on a learner's **domain, skill level, available learning duration, and learning goal**.
 
@@ -11,19 +11,7 @@ The application uses **Groq's API** with the **GPT-OSS 120B** model to generate 
 ## 🚀 Live Application
 
 👉 **Use the AI Learning Roadmap Generator:**
-**[Open Live App](YOUR_STREAMLIT_APP_URL)**
-
-> Replace `YOUR_STREAMLIT_APP_URL` with your actual Streamlit URL after deployment.
-
-Example:
-
-```text
-https://your-app-name.streamlit.app
-```
-
-Streamlit Community Cloud provides each deployed application with a unique `streamlit.app` URL.
-
----
+**[Open Live App](https://ai-learning-roadmap-generator.streamlit.app/)**
 
 ## ✨ Features
 
