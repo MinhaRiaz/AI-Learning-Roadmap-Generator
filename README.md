@@ -4,7 +4,7 @@
 
 An AI-powered **Learning Roadmap Generator** that creates personalized, practical, and structured learning plans based on a learner's **domain, skill level, available learning duration, and learning goal**.
 
-The application uses **Groq's API** with the **GPT-OSS 120B** model to generate customized learning roadmaps and is deployed using **Streamlit Community Cloud**.
+The application uses **Groq's API** with the **openai/gpt-oss-120b** model to generate customized learning roadmaps and is deployed using **Streamlit Community Cloud**.
 
 ---
 
