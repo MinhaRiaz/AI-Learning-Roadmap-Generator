@@ -1,6 +1,6 @@
 # 🎓 AI Learning Roadmap Generator
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]()
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-learning-roadmap-generator.streamlit.app/)
 
 An AI-powered **Learning Roadmap Generator** that creates personalized, practical, and structured learning plans based on a learner's **domain, skill level, available learning duration, and learning goal**.
 
