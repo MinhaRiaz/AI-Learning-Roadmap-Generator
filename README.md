@@ -122,7 +122,7 @@ User Input
 | Python                    | Application development      |
 | Streamlit                 | Web interface and deployment |
 | Groq API                  | AI model API                 |
-| GPT-OSS 120B              | Roadmap generation           |
+| Openai/gpt-oss-120b       | Roadmap generation           |
 | GitHub                    | Source code management       |
 | Streamlit Community Cloud | Application deployment       |
 
